@@ -1,0 +1,9 @@
+{
+    "php.suggest.basic": true,
+    "cSpell.words": [
+        "cpassword",
+        "iquery",
+        "registeration"
+    ],
+    "git.ignoreLimitWarning": true
+}
